@@ -1,4 +1,8 @@
 
+
+/**
+ *  Demo 0
+ */
 /**
  *  type 1
  */
@@ -31,4 +35,10 @@ chooseToppings()
  */
 
 chooseToppings().then(placeOrder).then(collectOrder).then(eatPizza).catch(failureCallback);
+
+
+/**
+ *  Demo 1
+ */
+
 
